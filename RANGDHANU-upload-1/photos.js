@@ -1,0 +1,21 @@
+// Product photos (StockSnap.io, CC0). Paths are relative to index.html.
+const PHOTOS={
+  "Dresses":["images/Dresses_1.jpg","images/Dresses_3.jpg","images/Dresses_4.jpg","images/Dresses_6.jpg","images/Dresses_9.jpg","images/Dresses_11.jpg"],
+  "Tops":["images/Tops_188.jpg","images/Tops_189.jpg","images/Tops_192.jpg","images/Tops_193.jpg","images/Tops_196.jpg","images/Tops_187.jpg"],
+  "Kurti":["images/Kurti_171.jpg","images/Kurti_170.jpg","images/Kurti_167.jpg","images/Kurti_165.jpg","images/Kurti_158.jpg","images/Kurti_152.jpg"],
+  "Skirts":["images/Skirts_16.jpg","images/Skirts_19.jpg","images/Skirts_20.jpg","images/Skirts_21.jpg","images/Skirts_14.jpg"],
+  "Trousers":["images/Trousers_211.jpg","images/Trousers_212.jpg","images/Trousers_215.jpg","images/Trousers_219.jpg","images/Trousers_210.jpg","images/Trousers_221.jpg"],
+  "Jackets":["images/Jackets_31.jpg","images/Jackets_213.jpg","images/Jackets_34.jpg","images/Jackets_39.jpg","images/Jackets_74.jpg","images/Jackets_40.jpg"],
+  "TShirts":["images/TShirts_206.jpg","images/TShirts_208.jpg","images/TShirts_209.jpg","images/TShirts_202.jpg","images/TShirts_207.jpg","images/TShirts_205.jpg"],
+  "Shirts":["images/Shirts_45.jpg","images/Shirts_51.jpg","images/Shirts_52.jpg","images/Shirts_49.jpg","images/Shirts_50.jpg","images/Shirts_48.jpg"],
+  "Panjabi":["images/Panjabi_174.jpg","images/Panjabi_179.jpg","images/Panjabi_182.jpg","images/Panjabi_183.jpg","images/Panjabi_178.jpg","images/Panjabi_177.jpg"],
+  "Jeans":["images/Jeans_64.jpg","images/Jeans_53.jpg","images/Jeans_56.jpg","images/Jeans_58.jpg","images/Jeans_59.jpg","images/Jeans_62.jpg"],
+  "Hoodies":["images/Hoodies_66.jpg","images/Hoodies_68.jpg","images/Hoodies_69.jpg","images/Hoodies_72.jpg","images/Hoodies_76.jpg","images/Hoodies_75.jpg"],
+  "MenJk":["images/MenJk_148.jpg","images/MenJk_146.jpg","images/MenJk_139.jpg","images/MenJk_143.jpg","images/MenJk_147.jpg","images/MenJk_36.jpg"],
+  "Girls":["images/Girls_79.jpg","images/Girls_80.jpg","images/Girls_81.jpg","images/Girls_84.jpg","images/Girls_78.jpg","images/Girls_87.jpg"],
+  "Boys":["images/Boys_91.jpg","images/Boys_92.jpg","images/Boys_93.jpg","images/Boys_96.jpg","images/Boys_99.jpg","images/Boys_89.jpg"],
+  "Baby":["images/Baby_101.jpg","images/Baby_228.jpg","images/Baby_230.jpg","images/Baby_231.jpg","images/Baby_95.jpg","images/Baby_223.jpg"],
+  "Sneakers":["images/Sneakers_103.jpg","images/Sneakers_104.jpg","images/Sneakers_106.jpg","images/Sneakers_111.jpg","images/Sneakers_114.jpg","images/Sneakers_107.jpg"],
+  "Bags":["images/Bags_115.jpg","images/Bags_116.jpg","images/Bags_117.jpg","images/Bags_122.jpg","images/Bags_124.jpg","images/Bags_125.jpg"],
+  "Caps":["images/Caps_130.jpg","images/Caps_132.jpg","images/Caps_134.jpg","images/Caps_137.jpg","images/Caps_138.jpg","images/Caps_136.jpg"],
+};
